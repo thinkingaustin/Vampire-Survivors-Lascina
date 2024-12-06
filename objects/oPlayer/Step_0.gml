@@ -6,4 +6,5 @@ var _up = keyboard_check(ord("W"));
 var _xinput = _right - _left;
 var _yinput = _down - _up;
 
-move_and_collide(_xinput * movespd, _yinput * movespd, oFloor)
+move_and_collide(_xinput * movespd, _yinput * movespd)
+

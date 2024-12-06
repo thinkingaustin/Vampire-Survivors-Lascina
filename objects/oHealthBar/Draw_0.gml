@@ -1,0 +1,1 @@
+draw_healthbar(1920/4, 1080/3, 1920/2, 1080/3, health, c_red, c_blue, c_green, 0, false, true)
