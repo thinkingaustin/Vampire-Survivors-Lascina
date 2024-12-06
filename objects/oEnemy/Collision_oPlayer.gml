@@ -1,6 +1,6 @@
 
-if collision_point(oPlayer.x, oPlayer.y, oPlayer, false, false)
+if collision_point(oPlayer.x, oPlayer.y, oPlayer, false, true)
 {
-	position_destroy(oEnemy.x, oEnemy.y);
-	global.hp -= 1
+	oPlayer.hp -= 15
+	instance_destroy();
 }
