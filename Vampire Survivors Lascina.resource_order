@@ -19,10 +19,10 @@
   "ResourceOrderSettings":[
     {"name":"oEnemy","order":3,"path":"objects/oEnemy/oEnemy.yy",},
     {"name":"oHammer","order":2,"path":"objects/oHammer/oHammer.yy",},
-    {"name":"oHealthBar","order":4,"path":"objects/oHealthBar/oHealthBar.yy",},
     {"name":"oPlayer","order":1,"path":"objects/oPlayer/oPlayer.yy",},
     {"name":"sBG","order":1,"path":"sprites/sBG/sBG.yy",},
     {"name":"sEnemy","order":3,"path":"sprites/sEnemy/sEnemy.yy",},
     {"name":"sHammer","order":2,"path":"sprites/sHammer/sHammer.yy",},
+    {"name":"sHealthBar","order":4,"path":"sprites/sHealthBar/sHealthBar.yy",},
   ],
 }
